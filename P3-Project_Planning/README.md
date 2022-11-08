@@ -7,16 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-- Landing Page
+- Landing Page:
+![landing page](landingpage.png)
 
-![landing page](/landingpage.png)
-- Login Page
+- Login Page:
+![login page](loginpage.png)
 
-![login page](/loginpage.png)
-
-- Job Matching Page
-
-![job matching page](/results.png)
+- Job Matching Page:
+![job matching page](results.png)
 
 ### Project Tracker
 
