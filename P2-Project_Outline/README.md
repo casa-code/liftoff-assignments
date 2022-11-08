@@ -13,26 +13,27 @@ What our team is trying to achieve with our website is to offer these women a se
 
 
 ### Features
--Informational Landing/Home Page:
+
+>-Informational Landing/Home Page:
     Home page should introduce the job matching and resource matching concept to new and prospective users. 
 
--Authentication (Account Log-in/Log-out) and Authorization requirement to access features that need users to possess an account
+>-Authentication (Account Log-in/Log-out) and Authorization requirement to access features that need users to possess an account
     In order to prevent spam account creation, users will need to validate their identity before credentials are entered into the accounts database and use the matching features.
 
--Profile Creation:
+>-Profile Creation:
     Users should be able to login to the site and save their job preferences. 
 
--Job Matching Page:
-Users can be matched with jobs for which their profiles fit. Users can also see jobs that their profile may not be a good fit for and link to appropriate job resources.
+>-Job Matching Page:
+    Users can be matched with jobs for which their profiles fit. Users can also see jobs that their profile may not be a good fit for and link to appropriate job resources.
 
--Resources page with links to free courses/video tutorials etc.
+>-Resources page with links to free courses/video tutorials etc.
     Users can see resources for which job descriptions may not already be the best fit.
 
 
--Users can add their own resources:
+>-Users can add their own resources:
     Users can add resources if they know of something that is not already included in the resources database/page.
 
-###Technologies
+### Technologies
 -Java
 -Spring Boot
 -MySQL
