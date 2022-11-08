@@ -7,19 +7,16 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+- Landing Page
 
-## Landing Page
+![landing page](/landingpage.png)
+- Login Page
 
-![landing page](/liftoff-assignments/P3-Project_Planning/landingpage.png)]
+![login page](/loginpage.png)
 
-## Login Page
+- Job Matching Page
 
-![login page](/liftoff-assignments/P3-Project_Planning/
-loginpage.png)
-
-## Job Matching Page
-
-![job matching page](/liftoff-assignments/P3-Project_Planning/results.png)
+![job matching page](/results.png)
 
 ### Project Tracker
 
