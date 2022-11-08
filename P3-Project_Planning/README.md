@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[![landing page](liftoff-assignments/P3-Project_Planning/landingpage.png)]
-[![login page](liftoff-assignments/P3-Project_Planning/loginpage.png)]
-[![job matching page](liftoff-assignments/P3-Project_Planning/results.png)]
+[![landing page](/liftoff-assignments/P3-Project_Planning/landingpage.png)]
+[![login page](/liftoff-assignments/P3-Project_Planning/loginpage.png)]
+[![job matching page](/liftoff-assignments/P3-Project_Planning/results.png)]
 
 ### Project Tracker
 
